@@ -1,0 +1,30 @@
+.cart {
+  padding: 2rem;
+  background: #fff8f0;
+  border-top: 2px solid #eed9b7;
+  text-align: center;
+}
+
+.cart ul {
+  list-style: none;
+  padding: 0;
+}
+
+.cart li {
+  margin: 0.5rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart button {
+  background: #5c4033;
+  color: white;
+  border: none;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.cart button:hover {
+  background: #3a261c;
+}

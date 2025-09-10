@@ -1,0 +1,28 @@
+.about {
+  padding: 3rem 2rem;
+  background: #fff8f0;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2rem;
+  color: #5c4033;
+  margin-bottom: 2rem;
+}
+
+.about-box {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.mission, .vision {
+  background: #eed9b7;
+  padding: 1.5rem;
+  border-radius: 12px;
+}
+
+.mission h3, .vision h3 {
+  color: #3a261c;
+  margin-bottom: 1rem;
+}

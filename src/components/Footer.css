@@ -1,0 +1,12 @@
+.footer {
+  background: #5c4033;
+  color: white;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+.footer .brand {
+  font-weight: bold;
+  color: #eed9b7;
+}
